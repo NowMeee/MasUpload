@@ -1,6 +1,5 @@
 Certainly, here's a sample README.md file for your GitHub repository. It includes instructions on how to use the script and a disclaimer about its obfuscation to deter unauthorized modification.
 
-```markdown
 # Mass Auto Shell Upload for WordPress
 
 ![GitHub license](https://img.shields.io/github/license/yourusername/yourrepositoryname)
