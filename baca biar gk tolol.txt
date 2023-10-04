@@ -1,0 +1,5 @@
+● kamu bisa ganti shell nya pake shell kamu, dengan
+nama class-autoload.php 
+
+1 - ekstrak themes atau plugin
+2 - salin shell yg kamu mau ganti dan tempatkan ke folder themes atau plugin dengan nama class-autoload.php
